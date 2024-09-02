@@ -1,7 +1,7 @@
-﻿using BepInEx;
+using BepInEx;
 using Utilla;
 
-namespace GiveMeBrawl
+namespace GiveMeAmbush
 {
     [ModdedGamemode("AMBUSH","AMBUSH", Utilla.Models.BaseGamemode.Ambush)]
     [BepInDependency("org.legoandmars.gorillatag.utilla")]
